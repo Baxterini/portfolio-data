@@ -1,11 +1,15 @@
 # portfolio-data
 
-📊 **Analiza półmaratonów**
+📊 **Porównanie półmaratonów Wrocławskich – 2023 vs 2024**
 
-Raport został stworzony przy użyciu narzędzia **YData Profiling** i zawiera przekrojową analizę danych z półmaratonów Wrocław 2024.
+Raport przedstawia analizę i zestawienie danych z dwóch edycji półmaratonu Wrocławskiego – z lat 2023 i 2024.
 
-Zawiera zestawienie wyników uczestników, porównania między kategoriami wiekowymi, analizę czasów oraz wykresy przedstawiające rozkład danych.
+Zawiera m.in.:
+- rozkład czasów uczestników,
+- porównanie kategorii wiekowych i płci,
+- różnice frekwencyjne i statystyczne między rocznikami.
 
 👉 [Kliknij tutaj, aby pobrać raport (HTML)](comparison_report.html)
+
 
 
