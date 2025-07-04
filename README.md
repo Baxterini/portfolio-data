@@ -9,8 +9,7 @@ Zawiera m.in.:
 - porównanie kategorii wiekowych i płci,
 - różnice frekwencyjne i statystyczne między rocznikami.
 
-👉 [Zobacz raport porównawczy (Google Drive)](https://drive.google.com/file/d/10hf1tEDm2M9t4Ur7bd01c1GVkG8J-HgxD/view?usp=sharing)
-
+👉 [Zobacz raport porównawczy (Google Drive)](https://drive.google.com/file/d/1oHF1Edm2M29W4U7QBdO1GVKG8dljHqxB/view?usp=sharing)
 
 
 
