@@ -9,7 +9,8 @@ Zawiera m.in.:
 - porównanie kategorii wiekowych i płci,
 - różnice frekwencyjne i statystyczne między rocznikami.
 
-👉 [Kliknij tutaj, aby pobrać raport (HTML)](comparison_report.html)
+👉 📥 [Pobierz raport comparison_report.html](comparison_report.html)
+
 
 
 
